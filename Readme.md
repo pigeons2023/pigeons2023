@@ -1,13 +1,13 @@
 ## English version
 - 👋 Hi, I’m @pigeons2023
 - 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python,Java and C#
 - 💞️ I hope to work with more people to improve our servers
 - 📫 How to reach me QQ：3481343411 Email：3481343411@qq.com
 ## 中文版本
 - 👋 嗨，我是@pigeons2023
 - 👀 我喜欢玩Minecraft
-- 🌱 我目前正在学习Python和Java
+- 🌱 我目前正在学习Python,Java和C#
 - 💞️ 我希望与更多的人合作来完善我们的服务器
 - 📫 如何联系我？QQ：3481343411 Email：3481343411@qq.com
 ---
